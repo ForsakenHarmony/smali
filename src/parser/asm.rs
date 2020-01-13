@@ -1,2 +1,3 @@
 mod format;
-mod instructions;
+mod instruction;
+mod opcode;
